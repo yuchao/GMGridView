@@ -200,7 +200,7 @@
         }
 		
         self.contentView.userInteractionEnabled = !editing;
-        [self shakeStatus:editing];
+        //[self shakeStatus:editing];
     }
 }
 
